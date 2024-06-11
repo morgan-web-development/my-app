@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+# Dependency directories
+node_modules/
+bower_components/
+# Build directories
+dist/
+tmp/
+# Environment variables
+.env
+# Coverage directory used by tools like istanbul
+coverage/
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+# IDE and editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# MacOS specific files
+.DS_Store
+# Linux specific files
+*~
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+# Angular specific files
+.angular/cache/
+.angular/
+# MongoDB data directory
+/data/db/
+# Temporary files
+*.swp
+*.bak
+*.tmp
+# Other files
+*.log
+*.pid
+*.seed
+*.pid.lock
